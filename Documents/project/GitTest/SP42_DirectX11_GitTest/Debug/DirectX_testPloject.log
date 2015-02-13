@@ -1,0 +1,25 @@
+﻿2015/02/12 16:05:39 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Sources\shader.cpp
+         shader.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DirectX_testPloject.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.lib" /MACHINE:X86 Debug\DirectX_testPloject.exe.embed.manifest.res
+         Debug\directx11bace.obj
+         Debug\game11Base.obj
+         Debug\input.obj
+         Debug\keyboard.obj
+         Debug\main.obj
+         Debug\polygon3d_11.obj
+         Debug\renderer11.obj
+         Debug\shader.obj
+         Debug\windowBace.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DirectX_testPloject.exe.embed.manifest" /manifest Debug\DirectX_testPloject.exe.intermediate.manifest
+       LinkEmbedManifest:
+         DirectX_testPloject.vcxproj -> C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.exe
+     1>プロジェクト "C:\Users\irohashi\Documents\project\DirectX\SP42\SP42_DirectX11_Tessellation\DirectX_testPloject.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:09.10
